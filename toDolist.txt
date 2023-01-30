@@ -1,0 +1,4 @@
+-Ajout point de vies
+-Ajout menu + différents niveaux
+-Ajout bonus
+-Ajout boss
