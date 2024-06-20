@@ -33,7 +33,7 @@ function game() {
 
 function displayGameOver() {
     if (isGameOver) {
-        let text = didWin ? "Niveau gagnée ! Cliquez ici pour aller au prochain niveau." : "Partie perdue. Cliquez ici pour retourner au menu";
+        let text = didWin ? "Niveau gagné ! Cliquez ici pour aller au prochain niveau." : "Partie perdue. Cliquez ici pour retourner au menu";
         
         ctx.fillStyle = "white";
         ctx.font = "40px Arial";
